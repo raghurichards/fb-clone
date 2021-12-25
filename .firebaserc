@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fb-clone-b57a2": {
+      "hosting": {
+        "fb-clone": [
+          "fb-clone-b57a2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fb-clone-b57a2"
+  }
+}
